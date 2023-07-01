@@ -1,0 +1,9 @@
+/uploads/*
+/processed/*
+/previews/*
+/dist
+/build
+/.vscode
+/env
+*.spec
+*.exe
